@@ -9,32 +9,32 @@ body {
     border-width: 2px;
     border-style: solid;
     position: absolute;
-    left: 54%;
-    top: 28.5%;
+    left: 51%;
+    top: 27.5%;
     }
     .boton_personalizado2{ 
     border-color: red;
     border-width: 2px;
     border-style: solid;
     position: absolute;
-    left:64%;
-    top: 28.5%;
+    left:61%;
+    top: 27.5%;
     }
     .boton_personalizado3{
     border-color: red;
     border-width: 2px;
     border-style: solid;
     position: absolute;
-    left: 44%;
-    top: 28.5%;
+    left: 41%;
+    top: 27.5%;
     }
     .boton_personalizado4 {
     border-color: red;
     border-width: 2px;
     border-style: solid;
     position: absolute;
-    top: 28.5%;
-    left:25%;
+    top: 27.5%;
+    left:24%;
     }
     .uno {
     font-weight: bolder;
@@ -73,8 +73,8 @@ body {
         border-color:white;
         border-style:solid;
         color:yellow;
-        margin-left: 39%;
-        margin-right: 39%;
+        margin-left: 31%;
+        margin-right: 31%;
         border-radius: 10px;
         font-size: 30px;
             
