@@ -9,33 +9,55 @@ body {
     border-width: 2px;
     border-style: solid;
     position: absolute;
-    left: 51%;
-    top: 27.5%;
+    left: 54%;
+    top: 28.5%;
     }
     .boton_personalizado2{ 
     border-color: red;
     border-width: 2px;
     border-style: solid;
     position: absolute;
-    left:61%;
-    top: 27.5%;
+    left:64%;
+    top: 28.5%;
     }
     .boton_personalizado3{
     border-color: red;
     border-width: 2px;
     border-style: solid;
     position: absolute;
-    left: 41%;
-    top: 27.5%;
+    left: 44%;
+    top: 28.5%;
     }
     .boton_personalizado4 {
     border-color: red;
     border-width: 2px;
     border-style: solid;
     position: absolute;
-    top: 27.5%;
-    left:24%;
+    top: 28.5%;
+    left:25%;
     }
+    .boton_personalizado5 {
+        background-color: lightslategray;
+        border-color: yellow;
+        border-width: 2px;
+        border-style: solid;
+        color:yellow;
+        font-size: 15px;
+        position: absolute;
+        top: 48%;
+        right: 24.5%;
+        }
+    .boton_personalizado6 {
+        background-color: lightslategray;
+        border-color: yellow;
+        border-width: 2px;
+        border-style: solid;
+        color:yellow;
+        font-size: 15px;
+        position: absolute;
+        top: 54%;
+        right: 24.5%;
+        }
     .uno {
     font-weight: bolder;
     font-size: 18px;
@@ -73,9 +95,28 @@ body {
         border-color:white;
         border-style:solid;
         color:yellow;
-        margin-left: 31%;
-        margin-right: 31%;
+        margin-left: 39%;
+        margin-right: 39%;
         border-radius: 10px;
         font-size: 30px;
             
+        }
+    .lista_equipos{
+        font-size: 30px;
+        list-style-type: disc;
+        color:yellow;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 0; 
+    }
+    .pers {
+        font-weight: bolder;
+        font-size: 18px;
+        border-style: solid;
+        border-width: 4px;
+        border-color: red;
+        border-radius: 10px;
+        color:yellow;
+        margin-left: 24%;
+        margin-right: 24%	
         }
