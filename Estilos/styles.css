@@ -42,21 +42,17 @@ body {
         border-width: 2px;
         border-style: solid;
         color:yellow;
-        font-size: 15px;
-        position: absolute;
-        top: 48%;
-        right: 24.5%;
+        font-size: 50%;
+
         }
     .boton_personalizado6 {
         background-color: lightslategray;
-        border-color: yellow;
-        border-width: 2px;
+        border-color:yellow;
+        border-width: 1px;
         border-style: solid;
         color:yellow;
         font-size: 15px;
-        position: absolute;
-        top: 54%;
-        right: 24.5%;
+
         }
     .uno {
     font-weight: bolder;
