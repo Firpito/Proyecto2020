@@ -1,5 +1,5 @@
 body{
-    background: url("Fondo.jpg");  
+    background: url("./../Imagenes/Fondo.jpg");  
 }
 .contenedor{
 position: absolute;
@@ -9,12 +9,6 @@ position: absolute;
 font-style: italic;
 font-weight: bold;
 } 
-#min{
-    width:100%;  
-    left:0;
-    bottom:0;
-    right:0;
-}
 .titulo_1{
 font-size: 300%;
 color: white;
@@ -40,11 +34,12 @@ background-color:#2e8515;
 height:100%;;
 width:9%;
 margin-left: 15%;
+
     }
 
  .pri{
 height:68%;
-background-image: url("pasto.jpg");
+background-image: url("./../Imagenes/pasto.jpg");
 opacity: 0.8;
 padding: 3%;
  }
@@ -61,16 +56,16 @@ font-size: 400%;
 .footer{
     color: white;
     font-size: 200%;
-    margin-top: 4%;
+    margin-top: 3%;
     margin-left: 20%;
 }
 .footer2{
-    height:25%;
+height:25%;
 background-color:#595656;
 }
 .dos{
     height:68%;
-    background-image: url("fondo2.jpg");
+    background-image: url("./../Imagenes/fondo2.jpg");
     opacity: 0.8;
     padding: 3%; 
 }
