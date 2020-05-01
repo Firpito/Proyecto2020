@@ -1,118 +1,76 @@
-body {
-    background: url("Fondo.jpg");
+body{
+    background: url("Fondo.jpg");  
+}
+.contenedor{
+position: absolute;
+           }  
+#titulo{
+position: absolute;
+font-style: italic;
+font-weight: bold;
+} 
+#min{
+    width:100%;  
+    left:0;
+    bottom:0;
+    right:0;
+}
+.titulo_1{
+font-size: 300%;
+color: white;
+top: 1%;
+left: 25%;
+}
+.titulo_3{
+top: 7%;
+left: 36%;
+color: white;
+font-size: 250%;
+}
+.head{
+height:15%;
+background-color:#595656;
+}
+.had2{
+height:5%;
+background-color:#2e8515;
     }
-    .contenedor{
-    position: absolute;
-    }
-    .boton_personalizado {
-    border-color:red;
-    border-width: 2px;
-    border-style: solid;
-    position: absolute;
-    left: 54%;
-    top: 28.5%;
-    }
-    .boton_personalizado2{ 
-    border-color: red;
-    border-width: 2px;
-    border-style: solid;
-    position: absolute;
-    left:64%;
-    top: 28.5%;
-    }
-    .boton_personalizado3{
-    border-color: red;
-    border-width: 2px;
-    border-style: solid;
-    position: absolute;
-    left: 44%;
-    top: 28.5%;
-    }
-    .boton_personalizado4 {
-    border-color: red;
-    border-width: 2px;
-    border-style: solid;
-    position: absolute;
-    top: 28.5%;
-    left:25%;
-    }
-    .boton_personalizado5 {
-        background-color: lightslategray;
-        border-color: yellow;
-        border-width: 2px;
-        border-style: solid;
-        color:yellow;
-        font-size: 50%;
 
-        }
-    .boton_personalizado6 {
-        background-color: lightslategray;
-        border-color:yellow;
-        border-width: 1px;
-        border-style: solid;
-        color:yellow;
-        font-size: 15px;
+#logo{
+height:100%;;
+width:9%;
+margin-left: 15%;
+    }
 
-        }
-    .uno {
-    font-weight: bolder;
-    font-size: 18px;
-    border-style: solid;
-    border-width: 4px;
-    border-color: red;
-    border-radius: 10px;
-    color:yellow;
-    margin-left: 13%;
-    margin-right: 13%	
-    }
-    .autor {
-        font-weight: bolder;
-        font-size: 12px;
-        border-style: solid;
-        border-width: 4px;
-        border-color: red;
-        border-radius: 10px;
-        color:white;
-        margin-left: 40%;
-        margin-right: 40%	
-        }
-    .titulo_1{
-    border-width:4px;
-    border-color:white;
-    border-style:solid;
-    color:yellow;
-    margin-left: 13%;
-    margin-right: 13%;
-    border-radius: 10px;
-        
-    }
-    .titulo_2{
-        border-width:4px;
-        border-color:white;
-        border-style:solid;
-        color:yellow;
-        margin-left: 39%;
-        margin-right: 39%;
-        border-radius: 10px;
-        font-size: 30px;
-            
-        }
-    .lista_equipos{
-        font-size: 30px;
-        list-style-type: disc;
-        color:yellow;
-        margin-left: auto;
-        margin-right: auto;
-        padding: 0; 
-    }
-    .pers {
-        font-weight: bolder;
-        font-size: 18px;
-        border-style: solid;
-        border-width: 4px;
-        border-color: red;
-        border-radius: 10px;
-        color:yellow;
-        margin-left: 24%;
-        margin-right: 24%	
-        }
+ .pri{
+height:68%;
+background-image: url("pasto.jpg");
+opacity: 0.8;
+padding: 3%;
+ }
+ .texto1{
+color:white;
+font-size: 400%;
+ }
+ #primera{
+     position: absolute;
+     margin-left: 90%;
+     height:150; 
+     width:400
+ }
+.footer{
+    color: white;
+    font-size: 200%;
+    margin-top: 4%;
+    margin-left: 20%;
+}
+.footer2{
+    height:25%;
+background-color:#595656;
+}
+.dos{
+    height:68%;
+    background-image: url("fondo2.jpg");
+    opacity: 0.8;
+    padding: 3%; 
+}
