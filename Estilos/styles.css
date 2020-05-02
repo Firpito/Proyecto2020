@@ -16,13 +16,13 @@ top: 1%;
 left: 25%;
 }
 .titulo_3{
-top: 7%;
+top: 8%;
 left: 36%;
 color: white;
 font-size: 250%;
 }
 .head{
-height:15%;
+height:18%;
 background-color:#595656;
 }
 #logo{
@@ -51,12 +51,16 @@ font-size: 400%;
 .footer{
     color: white;
     font-size: 200%;
-    margin-top: 3%;
     margin-left: 20%;
 }
 .footer2{
 height:25%;
 background-color:#595656;
+}
+.comen{
+    height:68%;
+    background-color:#595656;
+    
 }
 .dos{
     height:68%;
