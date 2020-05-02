@@ -64,3 +64,8 @@ background-color:#595656;
     opacity: 0.8;
     padding: 3%; 
 }
+#form{
+  text-align: center;
+  margin: 0 auto;
+  margin-left: 34%;
+}    
