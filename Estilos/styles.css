@@ -1,6 +1,10 @@
 body{
     background: url("./../Imagenes/Fondo.jpg");  
 }
+.verde{
+background-color: #28a745;
+height: 3%;
+} 
 .contenedor{
 position: absolute;
            }  
@@ -54,13 +58,12 @@ font-size: 400%;
     margin-left: 20%;
 }
 .footer2{
-height:25%;
+height:20%;
 background-color:#595656;
 }
 .comen{
-    height:68%;
-    background-color:#595656;
-    
+    height:70%;
+    background-color: darkorange;
 }
 .dos{
     height:68%;
