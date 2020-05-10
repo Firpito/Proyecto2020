@@ -47,6 +47,40 @@ background-image: url("./../Imagenes/fondo2.jpg");
 opacity: 0.8;
 padding: 3%; 
 }
+.tres{
+height:68%;
+background-image: url("./../Imagenes/fondo11.jpg");
+opacity: 0.8;
+padding: 5%; 
+text-align: center;
+}
+.texto2{
+position: absolute;
+margin-left: 3%;
+color:white;
+font-size: 300%;
+}  
+.texto3{
+position: absolute;
+margin-left: 30%;
+color:white;
+font-size: 225%;
+margin-top: 4%;
+} 
+.texto4{
+position: absolute;
+margin-left: 26%;
+color:white;
+font-size: 285%;
+margin-top: 7%;
+} 
+.texto5{
+position: absolute;
+margin-left: 37%;
+color:white;
+font-size: 500%;
+margin-top: 11%;
+} 
 .verde{
 background-color: #28a745;
 height: 3%;
