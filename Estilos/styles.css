@@ -1,13 +1,19 @@
+
 body{
-    background: url("./../Imagenes/Fondo.jpg");  
+background: url("./../Imagenes/Fondo.jpg");  
 }
-.verde{
-background-color: #28a745;
-height: 3%;
-} 
 .contenedor{
 position: absolute;
-           }  
+} 
+.head{
+height:18%;
+background-color:#595656;
+}
+#logo{
+height:100%;;
+width:9%;
+margin-left: 15%;    
+}
 #titulo{
 position: absolute;
 font-style: italic;
@@ -24,71 +30,64 @@ top: 8%;
 left: 36%;
 color: white;
 font-size: 250%;
-}
-.titulo_4{
-    color:white;
-    font-size: 300%;
-    padding-bottom: 20px;
-    top: 1%;
-    left: 25%;
-}
-.head{
-height:18%;
-background-color:#595656;
-}
-#logo{
-height:100%;;
-width:9%;
-margin-left: 15%;
-
-    }
-
- .pri{
+}    
+.pri{
 height:68%;
 background-image: url("./../Imagenes/pasto.jpg");
 opacity: 0.8;
 padding: 3%;
- }
- .texto{
-     padding: 10px;
-     color:white;
-     font-size: 200%;
- }
- .texto1{
+}
+.texto1{
 color:white;
 font-size: 400%;
- }
- #primera{
-     position: absolute;
-     margin-left: 90%;
-     height:150; 
-     width:400
- }
+}
+.dos{
+height:68%;
+background-image: url("./../Imagenes/fondo2.jpg");
+opacity: 0.8;
+padding: 3%; 
+}
+.verde{
+background-color: #28a745;
+height: 3%;
+} 
 .footer{
-    color: white;
-    font-size: 200%;
-    margin-left: 20%;
+color: white;
+font-size: 200%;
+margin-left: 20%;
 }
 .footer2{
 height:20%;
 background-color:#595656;
-}
+} 
 .comen{
-    height:70%;
-    background-color: darkorange;
-}
-.dos{
-    height:68%;
-    background-image: url("./../Imagenes/fondo2.jpg");
-    opacity: 0.8;
-    padding: 3%; 
+height:70%;
+background-color: darkorange;
 }
 .fhistoria{
-    background-size: cover;
-    background-image: url("./../Imagenes/Fhist.webp");
+background-size: cover;
+background-image: url("./../Imagenes/Fhist.webp");
 }
+.titulo_4{
+color:white;
+font-size: 300%;
+padding-bottom: 20px;
+top: 1%;
+left: 25%;
+}
+ .texto{
+padding: 10px;
+color:white;
+font-size: 200%;
+ }
+ #primera{
+position: absolute;
+margin-left: 90%;
+height:150; 
+width:400
+ }
 #form{
-  text-align: center;
-  margin: 0 auto;
-  margin-left: 33%;
+text-align: center;
+margin: 0 auto;
+margin-left: 33%;
 }    
